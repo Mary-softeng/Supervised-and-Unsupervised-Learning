@@ -44,6 +44,7 @@ Download it and open it using R studio and you will be able to run it.
 - Check the Data
 - Perform Data Cleaning
 - Perform Exploratory Data Analysis  (Univariate, Bivariate & Multivariate)
+- Modeling
 - Implement the Solution
 
 ## Description of the datasets
